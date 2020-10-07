@@ -1,6 +1,3 @@
-https://s1.static.brasilescola.uol.com.br/be/vestibular/-5ad8ba5235e13.jpg
-
-
 # Sistema em Tempo Real e Embarcado
 
 **Aluno**: Víctor Azevedo de Oliveira 
