@@ -11,5 +11,5 @@ Este repositório está designado a lista de atividades 01.
 Segue abaixo o arquivo em formato PDF da lista de exercício resolvida.
 
 * [**PDF**](https://github.com/VictorAzO/STRE/tree/main/Lista01-STR)
-    - Esta pasta se refere a resolução da **Lista 01*
+    - Esta pasta se refere a resolução da *Lista 01*
 
